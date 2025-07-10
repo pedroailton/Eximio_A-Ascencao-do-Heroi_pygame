@@ -1,10 +1,14 @@
 from personagem import Personagem
 from vilao import Vilao
+from heroi import Heroi
+from personagemnpc import PersonagemNPC
+
+from random import choice
 
 def main():
     # Criando personagens e vilões
-    heroi = Personagem('Link', 30, 100)
-    npc = Personagem('Zelda', 28, 80)
+    heroi = Heroi('Link', 30, 100)
+    npc = Npc('Zelda', 28, 80)
     vilao = Vilao('Ganon', 45, 120, 'Alta')
 
     # Mostrando personagens

@@ -1,8 +1,8 @@
 from personagem import Personagem  # Importa a classe Personagem
 
-class Vilao(Personagem):
+class Heroi(Personagem):
     """
-    A classe Vilao representa as características de um vilão no jogo.
+    A classe Heroi representa as características de um herói no jogo.
     Herda da classe Personagem.
     """
     def __init__(self, nome, idade, vida, maldade):
@@ -14,14 +14,14 @@ class Vilao(Personagem):
 
     def ataque(self, personagem):
         """
-        Reduz a vida de outro personagem atacado pelo vilão com base em sorteio.
+        Reduz a vida do vilão atacado pelo herói.
         """
         print(f'{self.nome} atacou {personagem.nome}!')
         personagem.downgrade_vida()
 
-    def defesa(self):
+    def subir_nivel(self):
         """
-        Impede que a vida do vilão diminua de acordo com um sorteio
+        Aumenta o nível do personagem e outros de seus atibutos particulares como força, vida e habilidade com magia por exemplo
         """
 
     def __str__(self):
