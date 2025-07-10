@@ -3,7 +3,9 @@
 ### Universidade Federal Rural de Pernambuco  
 **Departamento de Estatística e Informática**  
 **Bacharelado em Sistemas de Informação**  
-**Disciplina: Princípios de Programação**
+**Disciplina: Princípios de Programação**  
+**Aluno: Pedro Ailton Alves da Cunha**  
+**Data de Entrega: 16/07/25**
 
 ---
 
