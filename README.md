@@ -65,7 +65,7 @@ Caso tenha sugestões ou melhorias, fique à vontade para abrir uma **issue** ou
 
 # **SOLUÇÃO**
 
-Um jogo que utiliza a blioteca pygame, feito no estilo do jogo pokemon
+O Exímio Herói: A Um jogo que utiliza a blioteca pygame, feito no estilo dos jogos da franquia Pokemon da Nintendo.
 
 ## **Arquivos do Projeto**
 
